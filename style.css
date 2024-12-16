@@ -51,8 +51,7 @@ nav li{
     display: inline;
     float: left;
 }
-
-nav a{
+nav a{  
     display: inline-block;
     width: 100px;
     text-align: center;
